@@ -1,0 +1,2 @@
+const mapboxToken = "pk.eyJ1Ijoicm1heWVyMTk4NCIsImEiOiJjazIzZG9iMmcyNGJsM2ptdW5wYXQ5aHIyIn0.rVVpsrp5KxUMwmIRMuKewA"
+const darkSkyKey = "228f1949fd59e830fedf7ededf39fc4c"

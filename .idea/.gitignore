@@ -7,5 +7,6 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
+#mapbox token and dark skies api
+./js/keys.js
 
-darkSkyKey = "pk.eyJ1Ijoicm1heWVyMTk4NCIsImEiOiJjazIzZG9iMmcyNGJsM2ptdW5wYXQ5aHIyIn0.rVVpsrp5KxUMwmIRMuKewA"
